@@ -4,7 +4,7 @@
 *  Classe abstrata para gerenciar expressões
 */
 
-abstract class TExepression{
+abstract class TExpression{
 // operadores lógicos
 const AND_OPERATOR = 'AND';
 const OR_OPERATOR = 'OR';

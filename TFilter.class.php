@@ -5,7 +5,7 @@
 * Esta classe provê a interface para definição de filtros de seleção
 */
 
-class TFilter extends TExepression
+class TFilter extends TExpression
  {
   private $variable; // variavel
   private $operator; // operador
